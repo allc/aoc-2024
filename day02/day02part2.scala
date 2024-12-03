@@ -1,6 +1,6 @@
 import scala.io.Source
 
-object Day02Part1 {
+object Day02Part2 {
     def checkReport(report: List[Int]): Boolean = {
         var isIncreasing = true
         for (i <- 1 to report.length - 1) {
