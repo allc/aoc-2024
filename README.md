@@ -7,3 +7,4 @@
 | 3   | Elixir               |
 | 4   | Java                 |
 | 5   | Python               |
+| 6   | Python               |
