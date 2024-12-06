@@ -6,3 +6,4 @@
 | 2   | Scala                |
 | 3   | Elixir               |
 | 4   | Java                 |
+| 5   | Python               |
