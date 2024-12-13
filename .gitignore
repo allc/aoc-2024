@@ -3,3 +3,6 @@
 # CPP
 *.exe
 *.pdb
+
+# SageMath
+*.sage.py
