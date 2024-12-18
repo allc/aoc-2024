@@ -18,3 +18,5 @@
 | 14  | Python               |
 | 15  | Python               |
 | 16  | Python               |
+| 17  | Python               |
+| 18  | Python               |
