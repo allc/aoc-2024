@@ -25,3 +25,5 @@
 | 21  | Python               |
 | 22  | Python               |
 | 23  | Python               |
+| 24  | Python               |
+| 25  | Python               |
